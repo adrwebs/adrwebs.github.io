@@ -13,7 +13,7 @@
 <?php include './inc/header.php'?>
 
     <link rel="stylesheet" href="./style/main.css">
-    <script src="./scr/scr-menu.js"></script>
+    <script src="/scr/scr-menu.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>adrwebs.dev</title>
