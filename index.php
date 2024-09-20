@@ -18,7 +18,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>adrwebs.dev</title>
     
-    <?php include './inc/menu.php'?>
+    <?php include '/inc/menu.php'?>
 </head>
 <body>
 
@@ -29,7 +29,7 @@
    
 </body>
 <footer>
-<?php include './inc/footer.php'?>
+<?php include '/inc/footer.php'?>
 
 </footer>
 </html>
